@@ -1,0 +1,352 @@
+{
+  "events": [
+    {
+      "y": -3000,
+      "date": "c. 3000 BCE",
+      "name": "The First Cities",
+      "cat": "Civilization",
+      "era": "Ancient World",
+      "desc": "Some of the world’s earliest cities grew in Mesopotamia and Egypt. Urban life brought new forms of government, trade, monumental architecture and record keeping."
+    },
+    {
+      "y": -2560,
+      "date": "c. 2560 BCE",
+      "name": "Great Pyramid of Giza",
+      "cat": "Culture",
+      "era": "Ancient World",
+      "desc": "The Great Pyramid was built as a royal tomb for Pharaoh Khufu. It remains one of the most extraordinary engineering achievements of the ancient world."
+    },
+    {
+      "y": -1754,
+      "date": "c. 1754 BCE",
+      "name": "Code of Hammurabi",
+      "cat": "Politics",
+      "era": "Ancient World",
+      "desc": "Babylonian ruler Hammurabi issued one of the best-known ancient law collections. Its surviving inscription reveals how law, social hierarchy and royal authority were connected."
+    },
+    {
+      "y": -776,
+      "date": "776 BCE",
+      "name": "First Olympic Games",
+      "cat": "Culture",
+      "era": "Ancient World",
+      "desc": "Traditionally dated to 776 BCE, the games at Olympia became a major pan-Hellenic festival, linking athletic competition with religion and shared Greek identity."
+    },
+    {
+      "y": -563,
+      "date": "c. 563 BCE",
+      "name": "Life of the Buddha",
+      "cat": "Ideas",
+      "era": "Ancient World",
+      "desc": "Siddhartha Gautama, known as the Buddha, taught a path focused on understanding suffering, ethical conduct and liberation. Buddhism later spread across much of Asia."
+    },
+    {
+      "y": -221,
+      "date": "221 BCE",
+      "name": "Qin Unifies China",
+      "cat": "Politics",
+      "era": "Ancient World",
+      "desc": "The Qin state unified much of China under its first emperor, Qin Shi Huang. Standardized systems of writing, currency, weights and measures helped consolidate imperial rule."
+    },
+    {
+      "y": -27,
+      "date": "27 BCE",
+      "name": "Roman Empire Begins",
+      "cat": "Politics",
+      "era": "Ancient World",
+      "desc": "Octavian became Augustus, marking the beginning of the Roman Empire. Rome expanded its power around the Mediterranean and shaped law, language, architecture and political institutions."
+    },
+    {
+      "y": 476,
+      "date": "476 CE",
+      "name": "Fall of the Western Roman Empire",
+      "cat": "Conflict",
+      "era": "Middle Ages",
+      "desc": "The deposition of the last western Roman emperor is often used as a marker for the end of ancient Rome in western Europe. Roman institutions and culture continued in many forms."
+    },
+    {
+      "y": 622,
+      "date": "622 CE",
+      "name": "The Hijra",
+      "cat": "Ideas",
+      "era": "Middle Ages",
+      "desc": "Muhammad’s migration from Mecca to Medina marks the beginning of the Islamic calendar. The early Muslim community developed into a major religious and political force."
+    },
+    {
+      "y": 800,
+      "date": "800 CE",
+      "name": "Charlemagne Crowned Emperor",
+      "cat": "Politics",
+      "era": "Middle Ages",
+      "desc": "Pope Leo III crowned Charlemagne emperor in Rome. His rule encouraged learning and strengthened political ties between the Frankish kingdom and the Latin Church."
+    },
+    {
+      "y": 1066,
+      "date": "1066",
+      "name": "Norman Conquest of England",
+      "cat": "Conflict",
+      "era": "Middle Ages",
+      "desc": "William, Duke of Normandy, defeated Harold II at the Battle of Hastings. The conquest transformed England’s ruling elite, language, landholding and political institutions."
+    },
+    {
+      "y": 1215,
+      "date": "1215",
+      "name": "Magna Carta",
+      "cat": "Politics",
+      "era": "Middle Ages",
+      "desc": "English barons compelled King John to accept the Magna Carta. Although its immediate impact was limited, it became an enduring symbol in debates about law and limits on royal power."
+    },
+    {
+      "y": 1347,
+      "date": "1347–1351",
+      "name": "The Black Death",
+      "cat": "Society",
+      "era": "Middle Ages",
+      "desc": "The plague pandemic devastated populations across Europe, Asia and North Africa. It transformed labor relations, economies, religious life and patterns of settlement."
+    },
+    {
+      "y": 1453,
+      "date": "1453",
+      "name": "Fall of Constantinople",
+      "cat": "Conflict",
+      "era": "Renaissance & Exploration",
+      "desc": "Ottoman forces captured Constantinople, ending the Byzantine Empire. The city became an important Ottoman capital and a crossroads of commerce and culture."
+    },
+    {
+      "y": 1492,
+      "date": "1492",
+      "name": "Atlantic Voyages & Encounter",
+      "cat": "Exploration",
+      "era": "Renaissance & Exploration",
+      "desc": "Christopher Columbus’s voyage brought sustained contact between Europe and the Americas. The encounter initiated conquest, colonization, forced migration and profound exchanges of people, crops, animals and disease."
+    },
+    {
+      "y": 1517,
+      "date": "1517",
+      "name": "The Reformation",
+      "cat": "Ideas",
+      "era": "Renaissance & Exploration",
+      "desc": "Martin Luther’s challenge to church practices helped spark the Protestant Reformation, reshaping Christianity and the political and cultural landscape of Europe."
+    },
+    {
+      "y": 1776,
+      "date": "1776",
+      "name": "American Declaration of Independence",
+      "cat": "Revolution",
+      "era": "Age of Revolutions",
+      "desc": "Thirteen British colonies declared independence, invoking ideas of natural rights and popular sovereignty. The American Revolution helped reshape Atlantic political debates."
+    },
+    {
+      "y": 1789,
+      "date": "1789",
+      "name": "French Revolution",
+      "cat": "Revolution",
+      "era": "Age of Revolutions",
+      "desc": "A financial and political crisis triggered a revolution that challenged monarchy and privilege. Its ideas of citizenship, equality and popular sovereignty influenced movements worldwide."
+    },
+    {
+      "y": 1804,
+      "date": "1804",
+      "name": "Haitian Independence",
+      "cat": "Revolution",
+      "era": "Age of Revolutions",
+      "desc": "After a revolution led by enslaved and formerly enslaved people, Haiti declared independence. It became the first independent Black republic and the first state born from a successful slave revolt."
+    },
+    {
+      "y": 1859,
+      "date": "1859",
+      "name": "On the Origin of Species",
+      "cat": "Science",
+      "era": "Industrial & Modern Age",
+      "desc": "Charles Darwin published his theory of evolution by natural selection, transforming biology and sparking lasting scientific, philosophical and social debates."
+    },
+    {
+      "y": 1861,
+      "date": "1861–1865",
+      "name": "American Civil War",
+      "cat": "Conflict",
+      "era": "Industrial & Modern Age",
+      "desc": "The United States fought a civil war over secession and slavery. Union victory preserved the country and led to the abolition of slavery, though racial inequality endured."
+    },
+    {
+      "y": 1868,
+      "date": "1868",
+      "name": "Meiji Restoration",
+      "cat": "Politics",
+      "era": "Industrial & Modern Age",
+      "desc": "Japan restored imperial rule and launched rapid political, economic and military reforms. The country industrialized and became a major world power."
+    },
+    {
+      "y": 1914,
+      "date": "1914–1918",
+      "name": "World War I",
+      "cat": "Conflict",
+      "era": "World at War",
+      "desc": "A global conflict involving major powers and their empires brought mass mobilization, trench warfare and enormous casualties. It helped bring down several empires and redrew borders."
+    },
+    {
+      "y": 1917,
+      "date": "1917",
+      "name": "Russian Revolution",
+      "cat": "Revolution",
+      "era": "World at War",
+      "desc": "Revolutions ended the Russian monarchy and brought the Bolsheviks to power later that year. The events led to the creation of the Soviet state and reshaped global politics."
+    },
+    {
+      "y": 1929,
+      "date": "1929",
+      "name": "Great Depression",
+      "cat": "Economy",
+      "era": "World at War",
+      "desc": "A financial crash in the United States helped trigger a worldwide economic crisis. Unemployment, poverty and political instability reshaped societies and government policy."
+    },
+    {
+      "y": 1939,
+      "date": "1939–1945",
+      "name": "World War II",
+      "cat": "Conflict",
+      "era": "World at War",
+      "desc": "The deadliest war in history involved countries across the globe. It included the Holocaust, nuclear weapons, the defeat of the Axis powers and the emergence of a new international order."
+    },
+    {
+      "y": 1945,
+      "date": "1945",
+      "name": "United Nations Founded",
+      "cat": "Politics",
+      "era": "Cold War & Contemporary",
+      "desc": "Fifty countries founded the United Nations to promote international cooperation and help prevent future wars. The organization became a central forum for diplomacy and global issues."
+    },
+    {
+      "y": 1947,
+      "date": "1947",
+      "name": "Indian Independence & Partition",
+      "cat": "Politics",
+      "era": "Cold War & Contemporary",
+      "desc": "British rule ended in the Indian subcontinent, creating independent India and Pakistan. Partition caused mass displacement and communal violence."
+    },
+    {
+      "y": 1969,
+      "date": "1969",
+      "name": "First Moon Landing",
+      "cat": "Science",
+      "era": "Cold War & Contemporary",
+      "desc": "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin walked on the Moon. The mission marked a defining moment in space exploration and Cold War competition."
+    },
+    {
+      "y": 1989,
+      "date": "1989",
+      "name": "Fall of the Berlin Wall",
+      "cat": "Politics",
+      "era": "Cold War & Contemporary",
+      "desc": "The opening of the Berlin Wall became a powerful symbol of the collapse of communist governments in Eastern Europe and the approaching end of the Cold War."
+    },
+    {
+      "y": 1991,
+      "date": "1991",
+      "name": "Dissolution of the Soviet Union",
+      "cat": "Politics",
+      "era": "Cold War & Contemporary",
+      "desc": "The Soviet Union dissolved into fifteen independent states. This ended the Cold War era and transformed the geopolitical landscape."
+    },
+    {
+      "y": 2001,
+      "date": "2001",
+      "name": "September 11 Attacks",
+      "cat": "Conflict",
+      "era": "21st Century",
+      "desc": "Terrorist attacks in the United States killed thousands and led to major changes in international security and foreign policy, including wars in Afghanistan and Iraq."
+    },
+    {
+      "y": 2008,
+      "date": "2008",
+      "name": "Global Financial Crisis",
+      "cat": "Economy",
+      "era": "21st Century",
+      "desc": "A crisis rooted in financial markets and housing spread across the world, causing recession, job losses and major debates about regulation and economic policy."
+    },
+    {
+      "y": 2020,
+      "date": "2020",
+      "name": "COVID-19 Pandemic",
+      "cat": "Society",
+      "era": "21st Century",
+      "desc": "COVID-19 spread worldwide, prompting public-health emergencies, lockdowns and rapid vaccine development. The pandemic transformed work, education, travel and everyday life."
+    },
+    {
+      "y": 2022,
+      "date": "2022",
+      "name": "Generative AI Breakthrough",
+      "cat": "Technology",
+      "era": "21st Century",
+      "desc": "Public generative AI tools brought powerful text and image generation into everyday use, accelerating debate about creativity, work, education, safety and the future of technology."
+    }
+  ],
+  "eras": [
+    {
+      "min": -4000,
+      "max": -500,
+      "name": "The Ancient World",
+      "sub": "The first civilizations and classical societies",
+      "bg": [
+        "#14252b",
+        "#3b493e"
+      ],
+      "accent": "#d9b47b"
+    },
+    {
+      "min": -500,
+      "max": 1453,
+      "name": "The Middle Ages",
+      "sub": "Empires, faith and changing worlds",
+      "bg": [
+        "#1b1c2b",
+        "#51413a"
+      ],
+      "accent": "#d6b47d"
+    },
+    {
+      "min": 1453,
+      "max": 1776,
+      "name": "Renaissance & Exploration",
+      "sub": "New ideas and connected continents",
+      "bg": [
+        "#27202d",
+        "#59402e"
+      ],
+      "accent": "#e0b879"
+    },
+    {
+      "min": 1776,
+      "max": 1914,
+      "name": "Age of Revolutions",
+      "sub": "Industry, rights and modern nations",
+      "bg": [
+        "#182a30",
+        "#4a493c"
+      ],
+      "accent": "#d8bd83"
+    },
+    {
+      "min": 1914,
+      "max": 2000,
+      "name": "A World Transformed",
+      "sub": "Global conflict and a changing order",
+      "bg": [
+        "#151d2a",
+        "#303d4b"
+      ],
+      "accent": "#a9c1d3"
+    },
+    {
+      "min": 2000,
+      "max": 2030,
+      "name": "The 21st Century",
+      "sub": "A connected and rapidly changing world",
+      "bg": [
+        "#111e28",
+        "#243d4b"
+      ],
+      "accent": "#7dd5c2"
+    }
+  ]
+}
